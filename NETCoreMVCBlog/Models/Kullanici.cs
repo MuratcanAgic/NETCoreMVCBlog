@@ -17,5 +17,7 @@ namespace NETCoreMVCBlog.Models
         [DisplayName("Kullanıcı Soyadı")]
         [MaxLength(30)]
         public string? KullaniciSoyadi { get; set; }
+
+        //Kullanıcıya şöyle böyle eklemeler yapılmalı
     }
 }
