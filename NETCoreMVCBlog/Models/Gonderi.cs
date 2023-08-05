@@ -20,5 +20,7 @@ namespace NETCoreMVCBlog.Models
         public Kullanici? Kullanici { get; set; }
 
         public DateTime GonderiTarihi { get; set; } = DateTime.Now;
+
+        //Gönderiye şöyle böyle eklemeler yapılmalı
     }
 }
